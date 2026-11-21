@@ -1,0 +1,137 @@
+{
+  "name": "YOUR NAME",
+  "nameJP": "あなたの名前",
+  "roles": [
+    "Software Developer",
+    "Problem Solver",
+    "Lifelong Learner"
+  ],
+  "tagline": "I build clean, reliable things for the web.",
+  "about": [
+    "Write two or three sentences about who you are and what you do.",
+    "Mention what drives you, the kind of work you want, and what makes you different."
+  ],
+  "stats": [
+    {
+      "value": "3+",
+      "label": "Years learning"
+    },
+    {
+      "value": "12",
+      "label": "Projects built"
+    },
+    {
+      "value": "5",
+      "label": "Tools mastered"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": 8
+    },
+    {
+      "name": "Python",
+      "level": 7
+    },
+    {
+      "name": "SQL",
+      "level": 6
+    },
+    {
+      "name": "HTML & CSS",
+      "level": 8
+    },
+    {
+      "name": "Git",
+      "level": 7
+    }
+  ],
+  "experience": [
+    {
+      "role": "Job Title",
+      "company": "Company Name",
+      "period": "2024 – Present",
+      "points": [
+        "What you achieved here, with a number if you can.",
+        "Another thing you owned or improved."
+      ]
+    },
+    {
+      "role": "Earlier Role",
+      "company": "Another Company",
+      "period": "2022 – 2024",
+      "points": [
+        "A key responsibility.",
+        "A result you are proud of."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Crimson Ronin",
+      "desc": "Pixel-art samurai horde survivor with roguelike upgrades, playable in the browser.",
+      "tags": [
+        "JavaScript",
+        "Canvas"
+      ],
+      "link": "https://austingounden.github.io/crimson-ronin"
+    },
+    {
+      "title": "Project Two",
+      "desc": "Another short description of what you built.",
+      "tags": [
+        "Python",
+        "Data"
+      ],
+      "link": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Your Degree",
+      "school": "Your Institution",
+      "period": "2021 – 2025"
+    }
+  ],
+  "contact": {
+    "email": "you@example.com",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/AustinGounden"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/austin-gounden-044349331/"
+      }
+    ]
+  },
+  "sections": {
+    "about": [
+      "About",
+      "自己紹介"
+    ],
+    "skills": [
+      "Skills",
+      "技能"
+    ],
+    "experience": [
+      "Experience",
+      "経験"
+    ],
+    "projects": [
+      "Projects",
+      "作品"
+    ],
+    "education": [
+      "Education",
+      "学歴"
+    ],
+    "contact": [
+      "Contact",
+      "連絡"
+    ]
+  },
+  "footer": "Made with pixels and sakura. ©"
+}
