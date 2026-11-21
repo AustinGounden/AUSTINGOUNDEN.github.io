@@ -27,16 +27,16 @@
   ],
   "skills": [
     {
-      "name": "JavaScript",
-      "level": 8
-    },
-    {
-      "name": "Python",
+      "name": "C++",
       "level": 7
     },
     {
+      "name": "Python",
+      "level": 3
+    },
+    {
       "name": "SQL",
-      "level": 6
+      "level": 7
     },
     {
       "name": "HTML & CSS",
@@ -44,26 +44,26 @@
     },
     {
       "name": "Git",
-      "level": 7
+      "level": 6
     }
   ],
   "experience": [
     {
-      "role": "Job Title",
-      "company": "Company Name",
-      "period": "2024 – Present",
+      "role": "Junior Sales and Technical assistant",
+      "company": "Omega Africa",
+      "period": "2026 – Present",
       "points": [
-        "What you achieved here, with a number if you can.",
-        "Another thing you owned or improved."
+        "Assist with sales and all technical IT matters where needed",
+        "Gained knowledge of computer component parts and assembly"
       ]
     },
     {
-      "role": "Earlier Role",
-      "company": "Another Company",
-      "period": "2022 – 2024",
+      "role": "Social Media Advisor",
+      "company": "A1 Radio Services",
+      "period": "2023 – Present",
       "points": [
-        "A key responsibility.",
-        "A result you are proud of."
+        "Help business create a socail media presence and gain a new customer base",
+        "Created leads and improved my graphic design abilities"
       ]
     }
   ],
@@ -79,7 +79,7 @@
     },
     {
       "title": "Project Two",
-      "desc": "Another short description of what you built.",
+      "desc": "temp",
       "tags": [
         "Python",
         "Data"
@@ -89,13 +89,13 @@
   ],
   "education": [
     {
-      "degree": "Your Degree",
-      "school": "Your Institution",
-      "period": "2021 – 2025"
+      "degree": "Computer Science and Informatics",
+      "school": "University of Johannesburg",
+      "period": "2023 – 2026"
     }
   ],
   "contact": {
-    "email": "you@example.com",
+    "email": "austingounden05@gmail.com",
     "links": [
       {
         "label": "GitHub",
